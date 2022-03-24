@@ -1,2 +1,2 @@
-# Introduction
-Just a little about me
+# Quizit
+ Quiz game
